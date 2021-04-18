@@ -26,3 +26,11 @@ p{
     /*display: inline-block;*/
 }
 
+img{
+    width: 50%;
+}
+#a1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
