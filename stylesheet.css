@@ -22,6 +22,7 @@ p{
     border-radius: 20px;
     margin: 7px;
     width: 25%;
-    /*float: left;*/
-    display: inline-block;
+    float: left;
+    /*display: inline-block;*/
 }
+
